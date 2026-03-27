@@ -6,22 +6,6 @@ from data.processed.dataset import documents
 
 llm = ChatOllama(model="llama3")
 
-def validate_response(query, response_text):
-    """
-    Fix common prerequisite reasoning mistakes.
-    """
-
-    if "CS 225" in query.upper() and "CS 124" in query.upper():
-        if "Decision: Eligible" in response_text:
-            response_text = response_text.replace(
-                "Decision: Eligible",
-                "Decision: Not Eligible"
-            )
-
-            response_text += "\n\n[Correction: CS 124 alone does NOT satisfy CS 225 prerequisites. CS 128 (or CS 126) must be completed first.]"
-
-    return response_text
-
 def ask(query):
 
     match = re.search(r"CS\s*\d+", query.upper())
@@ -53,7 +37,7 @@ def ask(query):
         [f"[{i+1}]\n{d.page_content}" for i, d in enumerate(docs)]
     )
 
-    context = context[:2000]
+    #context = context[:6000]
 
     print("\nDEBUG CONTEXT:\n", context[:500])
 
@@ -64,6 +48,5 @@ def ask(query):
 
     response = llm.invoke(prompt)
 
-    final_output = validate_response(query, response.content)
-    return final_output
+    return response.content
 
