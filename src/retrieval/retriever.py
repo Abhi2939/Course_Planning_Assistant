@@ -15,3 +15,4 @@ results = retriever.invoke(query)
 for r in results:
     print("----")
     print(r.page_content)
+    
