@@ -6,7 +6,7 @@ db = FAISS.load_local("faiss_index",
                       allow_dangerous_deserialization=True
                       )
 
-retriever = db.as_retriever(search_kwargs={"k": 3})
+retriever = db.as_retriever(search_kwargs={"k": 5})
 
 query = "What are prerequisites for CS 225?"
 
