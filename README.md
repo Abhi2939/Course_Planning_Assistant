@@ -1,103 +1,133 @@
-# 🎓 Course Planning Assistant (RAG-Based)
+# Course Planning Assistant
 
-## 📌 Overview
+A Retrieval-Augmented Generation (RAG) system that helps students plan courses using academic catalog data from the University of Illinois Computer Science department.
 
-This project implements a **Retrieval-Augmented Generation (RAG) system** that helps students plan courses using academic catalog data.
+## Overview
 
-It supports:
+This project implements an AI-powered assistant that answers questions about course prerequisites, program requirements, and academic policies. The system uses a vector database to retrieve relevant information from scraped catalog data and generates grounded responses using a local LLM.
 
-* ✅ Prerequisite checking
-* ✅ Course planning
-* ✅ Program requirement queries
-* ✅ Safe abstention for unknown queries
+Key capabilities:
+- Prerequisite checking with step-by-step reasoning
+- Course planning recommendations
+- Program requirement queries
+- Safe handling of unknown queries with citations
 
-The system is **fully grounded**, meaning:
+## Features
 
-* No hallucinations
-* All answers are backed by **citations from catalog data**
+- **Grounded Responses**: All answers are backed by citations from the catalog data
+- **Multi-step Reasoning**: Handles complex prerequisite chains
+- **Query Enhancement**: Automatically enhances queries for better retrieval
+- **Type Detection**: Filters documents by type (COURSE, PROGRAM, POLICY)
+- **Local LLM**: Uses Ollama with Llama3 for privacy and cost-efficiency
 
----
+## Prerequisites
 
-## 🎯 Objective
+- Python 3.8+
+- [Ollama](https://ollama.com/) installed and running
+- Llama3 model: `ollama pull llama3`
 
-Build an assistant that:
+## Installation
 
-* Answers prerequisite questions with **verifiable citations**
-* Performs **multi-step prerequisite reasoning**
-* Suggests course plans
-* Asks clarifying questions when needed
-* Safely refuses when information is missing
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd lms-assistant
+   ```
 
----
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## 🏗️ Architecture
+3. Ensure the FAISS index is present in `faiss_index/` directory.
+
+## Usage
+
+### Command Line Interface
+
+Run the main application:
+```bash
+python main.py
+```
+
+Or use the app version with examples:
+```bash
+python app/app.py
+```
+
+Example queries:
+- "What are prerequisites for CS 225?"
+- "Can I take CS 374 after completing CS 225?"
+- "What are the grading policies?"
+
+### Programmatic Usage
+
+```python
+from src.pipeline.rag_pipeline import ask
+
+response = ask("What are prerequisites for CS 374?")
+print(response)
+```
+
+## Project Structure
+
+```
+├── data/
+│   ├── raw/              # Scraped catalog data
+│   └── processed/        # Processed datasets
+├── src/
+│   ├── embedding/        # Text embeddings
+│   ├── retrieval/        # FAISS retriever
+│   ├── llm/              # Prompt templates
+│   └── pipeline/         # Main RAG pipeline
+├── app/                  # CLI applications
+├── evaluation/           # Test queries and evaluation
+├── faiss_index/          # Vector database
+└── requirements.txt
+```
+
+## Dataset
+
+The system uses data scraped from the University of Illinois CS course catalog:
+
+- **Sources**: Course descriptions, degree requirements, academic policies
+- **Coverage**: 100+ course descriptions
+- **Format**: Structured text with metadata (TYPE, COURSE_ID, etc.)
+
+## Architecture
 
 ```
 User Query
    ↓
-Query Processing (enhancement + type detection)
+Query Enhancement + Type Detection
    ↓
 FAISS Retriever (filtered by TYPE)
    ↓
-Relevant Chunks (COURSE / PROGRAM / POLICY)
+Relevant Context Chunks
    ↓
-Prompt Engineering (strict grounding rules)
+Prompt Engineering (grounding rules)
    ↓
-LLM (LLaMA3 via Ollama)
+Ollama Llama3 LLM
    ↓
-Final Answer (with reasoning + citations)
+Grounded Answer with Citations
 ```
 
----
+## Evaluation
 
-## 📂 Project Structure
-
-```
-├── data/
-│   ├── raw/
-│   │   ├── courses.txt
-│   │   ├── extra_docs.txt
-│   │   ├── webScraping.py
-│   │   ├── policy_scraper.py
-│   │   └── merge.py
-│   └── processed/
-│       └── dataset.py
-│
-├── src/
-│   ├── embedding/
-│   │   └── embeddings.py
-│   ├── retrieval/
-│   │   └── retriever.py
-│   ├── llm/
-│   │   └── prompt.py
-│   └── pipeline/
-│       └── rag_pipeline.py
-│
-├── app/
-│   └── app.py
-│
-├── evaluation/
-│   ├── test_queries.py
-│   └── run_eval.py
-│
-├── faiss_index/
-├── final_dataset.txt
-└── requirements.txt
+Run evaluation on test queries:
+```bash
+python evaluation/run_eval.py
 ```
 
----
+View test queries in `evaluation/test_queries.py`.
 
-## 📊 Dataset
+## Contributing
 
-### Sources
+Contributions are welcome. Please ensure code follows the existing patterns and includes appropriate tests.
 
-* University of Illinois CS Course Catalog
-* CS Degree Requirements Pages
-* Academic Policy Documents
+## License
 
-### Coverage
-
-* 100+ course descriptions
+This project is licensed under the MIT License.
 * Program requirements
 * Academic policies
 
