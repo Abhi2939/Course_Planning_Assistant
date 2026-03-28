@@ -1,8 +1,14 @@
 from src.pipeline.rag_pipeline import ask
 
+
 def main():
     print("🎓 Course Planning Assistant (RAG)")
     print("Type 'exit' to quit\n")
+
+    print("Example questions:")
+    print("- What are prerequisites for CS 225?")
+    print("- Can I take CS 374 after CS 225?")
+    print("- What are grading policies?\n")
 
     while True:
         query = input("Ask your question: ")
@@ -11,14 +17,22 @@ def main():
             print("Goodbye 👋")
             break
 
+        if not query.strip():
+            print("⚠️ Please enter a valid question.\n")
+            continue
+
         try:
+            print("\n⏳ Thinking...\n")
+
             response = ask(query)
-            print("\n📌 Response:\n")
+
+            print("📌 Response:\n")
             print(response)
-            print("\n" + "="*60 + "\n")
+            print("\n" + "=" * 60 + "\n")
 
         except Exception as e:
-            print("❌ Error:", str(e))
+            print("❌ Something went wrong. Please try again.")
+            print("Details:", str(e))
 
 
 if __name__ == "__main__":
