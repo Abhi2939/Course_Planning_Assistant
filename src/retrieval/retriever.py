@@ -1,18 +1,28 @@
 from langchain_community.vectorstores import FAISS
 from src.embedding.embeddings import embeddings
 
-db = FAISS.load_local("faiss_index",
-                      embeddings,
-                      allow_dangerous_deserialization=True
-                      )
 
-retriever = db.as_retriever(search_kwargs={"k": 5})
+def get_retriever():
+    db = FAISS.load_local("faiss_index",
+                          embeddings,
+                          allow_dangerous_deserialization=True
+                          )
+    return db
 
-query = "What are prerequisites for CS 225?"
+def search(query):
+    db = get_retriever()
 
-results = retriever.invoke(query)
+    retriever = db.as_retriever(search_kwargs={"k": 5})
 
-for r in results:
-    print("----")
-    print(r.page_content)
+    results = retriever.invoke(query)
+
+    print(f"\n🔍 Query: {query}\n")
+
+    for i, r in enumerate(results):
+        print(f"\n--- Result {i+1} ---")
+        print(f"Type: {r.metadata.get('type')}")
+        print(r.page_content[:500]) 
+
+if __name__ == "__main__":
+    search("What are prerequisites for CS 225?")
     
