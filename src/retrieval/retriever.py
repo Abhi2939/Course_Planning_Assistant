@@ -12,7 +12,10 @@ def get_retriever():
 def search(query):
     db = get_retriever()
 
-    retriever = db.as_retriever(search_kwargs={"k": 5})
+    retriever = db.as_retriever(
+        search_type="mmr",
+        search_kwargs={"k": 5}
+        )
 
     results = retriever.invoke(query)
 

@@ -1,6 +1,5 @@
 from src.pipeline.rag_pipeline import ask
 
-
 def main():
     print("🎓 Course Planning Assistant (RAG)")
     print("Type 'exit' to quit\n")
