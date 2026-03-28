@@ -2690,3 +2690,483 @@ DATE_ACCESSED: 2026-03-28
 CHUNK_ID: CS599_9ec6a4
 ============================================================
 
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+Print Options (Opens Modal) Computer Science, BS for the degree of Bachelor of Science in Computer Science The Computer Science curriculum provides both a broad and deep knowledge of the theory, design, and application of computer systems, with an emphasis on software systems. Because computing is ubiquitous, application areas involve virtually any field imaginable - from developing gene sequencing algorithms via techniques in computational biology, to designing user interfaces for mobile applications; from designing methods for high frequency trading, to creating computer generated graphics and special effects in the gaming industry; and from creating embedded real time systems to be deployed in medical devices, to analyzing social data from internet communication patterns. During the fir
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_61e5443b
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+ed in medical devices, to analyzing social data from internet communication patterns. During the first two years the curriculum provides a strong foundation in mathematics, science, and computation. Advanced coursework both in more technical core areas and in areas of the student's choosing follows in the second two years. Graduates regularly go on to graduate study or leading positions in industry. Both a combined B.S.-M.S. degree program and a B.S-M.C.S. degree program are available. The admission and course requirements are described on the Siebel School of Computing and Data Science website . Current Program Educational Objectives for the degree of Bachelor of Science in Computer Science Graduation Requirements Minimum hours required for graduation: 128 hours. M inimum Technical GPA :
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_52c4a66e
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+Graduation Requirements Minimum hours required for graduation: 128 hours. M inimum Technical GPA : 2.0 TGPA is required for CS and Math courses. See Technical GPA to clarify requirements. University Requirements Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement. The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog . General Education Requirements Follows the campus General Education (Gen Ed) requirements . Some Gen Ed requirements may be met by courses required and/or electives in the program. Course List Code Title Hours Composition I 4
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_d64c3837
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+et by courses required and/or electives in the program. Course List Code Title Hours Composition I 4-6 Advanced Composition 3 Humanities & the Arts (6 hours) 6 Natural Sciences & Technology (6 hours) 6 fulfilled by PHYS 211 and PHYS 212 Social & Behavioral Sciences (6 hours) 6 Cultural Studies: Non-Western Cultures (1 course) 3 Cultural Studies: US Minority Cultures (1 course) 3 Cultural Studies: Western/Comparative Cultures (1 course) 3 Quantitative Reasoning (2 courses, at least one course must be Quantitative Reasoning I) 6-10 fulfilled by MATH 220 or MATH 221 ; and MATH 231 , MATH 241 , PHYS 211 , PHYS 212 , CS 124 , CS 128 , CS 225 Language Requirement (Completion of the third semester or equivalent of a language other than English is required) 0-15 Orientation and Professional Develo
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_c228f0dd
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+or equivalent of a language other than English is required) 0-15 Orientation and Professional Development Course List Code Title Hours ENG 100 Grainger Engineering Orientation Seminar (External transfer students take ENG 300 .) 1 Highly recommended, optional 1 credit hour course, CS 100 Computer Science Orientation. Credit hour counts toward free electives. CS 210 Ethical & Professional Issues 2 or 3 or CS 211 Ethical and Professional Conduct Total Hours 3-4 Foundational Mathematics and Science Course List Code Title Hours MATH 221 Calculus I ( MATH 220 may be substituted. MATH 220 is appropriate for students with no background in calculus. 4 of 5 credit hours count towards degree.) 4 MATH 231 Calculus II 3 MATH 241 Calculus III 4 MATH 257 Linear Algebra with Computational Applications 3 o
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_851a2da0
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+31 Calculus II 3 MATH 241 Calculus III 4 MATH 257 Linear Algebra with Computational Applications 3 or MATH 415 Applied Linear Algebra or MATH 416 Abstract Linear Algebra PHYS 211 University Physics: Mechanics 4 PHYS 212 University Physics: Elec & Mag 4 One Science elective course: 3 Students must take one course from the Natural Science & Technology (NST) list, in addition to those taken as part of the General Education requirements. The course must be a course that is allowed for credit by the Grainger College of Engineering. Exceptions to the list are: ASTR 100 , PHYS 101 and PHYS 102 , and CHEM 101 . Students who select either ASTR 121 , ASTR 122 , or ASTR 150 to satisfy the Science Elective requirement will not receive credit for any other 100-level ASTR course as a free elective (maxi
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_71320d37
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+ive requirement will not receive credit for any other 100-level ASTR course as a free elective (maximum of 4 credit hours of ASTR 100 -level can count towards graduation requirements for all Grainger College of Engineering Undergraduates). Total Hours 25 Computer Science Technical Core Course List Code Title Hours CS 124 Introduction to Computer Science I 3 CS 128 Introduction to Computer Science II 3 CS 173 Discrete Structures 3 CS 222 Software Design Lab 1 CS 225 Data Structures 4 CS 233 Computer Architecture 4 CS 341 System Programming 4 CS 357 Numerical Methods I 3 CS 361 Probability & Statistics for Computer Science 3 CS 374 Introduction to Algorithms & Models of Computation 4 CS 421 Programming Languages & Compilers 3 Total Hours 35 Technical Electives Course List Code Title Hours St
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_1c1a3358
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+ogramming Languages & Compilers 3 Total Hours 35 Technical Electives Course List Code Title Hours Students must take a minimum of (6) six additional technical electives with at least eighteen (18) cumulative credit hours and chosen from CS 397 and the CS 400 -level courses, not including CS 400 , CS 401 , CS 402 , CS 403 or CS 491 . CS 500 -level courses may be used as technical electives, but only with special permission from the CS Academic Office. CS 397 and CS 499 may be used with a cumulative maximum of six (6) credits from them counting as technical electives. One "CS-like" course in another department (e.g., ECE) may also be counted as a CS 400 -level course with permission of the CS Academic Office. Non-CS tech electives will not be considered in focus areas. 18 At least one (1) of
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_3a8bcce7
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+Academic Office. Non-CS tech electives will not be considered in focus areas. 18 At least one (1) of the CS courses used for technical electives must be chosen from the list below of CS courses satisfying the team project requirement. Team Project Course List: CS 411 Database Systems 3 or 4 CS 415 Game Development 3 or 4 CS 417 Virtual Reality 3 CS 425 Distributed Systems (4 hour section only) 4 CS 427 Software Engineering I 3 or 4 CS 428 Software Engineering II 3 or 4 CS 429 Software Engineering II, ACP 3 CS 437 Topics in Internet of Things 3 CS 465 User Interface Design 4 CS 467 Social Visualization 3 or 4 CS 493 Senior Project II, ACP 3 CS 494 Senior Project II 3 CS 497 CS Team Project 1 to 3 At least three (3) of the CS courses used for technical electives must be chosen from a single
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_fa3d9d98
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+to 3 At least three (3) of the CS courses used for technical electives must be chosen from a single focus area, from among the list of focus areas listed below. The team project course may be used as one of them. CS 498 Special Topics and CS 598 Special Topics classes may be included in a focus area by department approval. Software Foundations: CS 407 Cryptography 3 or 4 CS 409 The Art of Web Programming 3 CS 422 Programming Language Design 3 or 4 CS 426 Compiler Construction 3 or 4 CS 427 Software Engineering I 3 or 4 CS 428 Software Engineering II 3 or 4 CS 429 Software Engineering II, ACP 3 CS 474 Logic in Computer Science 3 or 4 CS 476 Program Verification 3 or 4 CS 477 Formal Software Development Methods 3 or 4 CS 492 Senior Project I 3 CS 493 Senior Project II, ACP 3 CS 494 Senior Pr
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_61c7d65a
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+evelopment Methods 3 or 4 CS 492 Senior Project I 3 CS 493 Senior Project II, ACP 3 CS 494 Senior Project II 3 CS 521 Advanced Topics in Programming Systems 4 CS 522 Programming Language Semantics 4 CS 524 Concurrent Progrmg Languages 4 CS 526 Advanced Compiler Construction 4 CS 527 Topics in Software Engineering 4 CS 576 Topics in Automated Deduction 2 to 4 Algorithms and Models of Computation: CS 407 Cryptography 3 or 4 CS 413 Intro to Combinatorics 3 or 4 CS 473 Algorithms 4 CS 474 Logic in Computer Science 3 or 4 CS 475 Formal Models of Computation 3 or 4 CS 476 Program Verification 3 or 4 CS 477 Formal Software Development Methods 3 or 4 CS 481 Advanced Topics in Stochastic Processes & Applications 3 or 4 CS 482 Simulation 3 or 4 CS 539 Distributed Algorithms 4 CS 571 Combinatorial Ma
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_39b57c4a
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+Applications 3 or 4 CS 482 Simulation 3 or 4 CS 539 Distributed Algorithms 4 CS 571 Combinatorial Mathematics 4 CS 572 Extremal Graph Theory 4 CS 574 Randomized Algorithms 4 CS 575 Methods of Combinatorics 4 CS 576 Topics in Automated Deduction 2 to 4 CS 579 Computational Complexity 4 CS 580 Topics in Algorithmic Game Theory 4 CS 581 Algorithmic Genomic Biology 4 CS 583 Approximation Algorithms 4 CS 584 Embedded System Verification 4 CS 586 Combinatorial Optimization 4 Intelligence and Big Data: CS 410 Text Information Systems 3 or 4 CS 411 Database Systems 3 or 4 CS 412 Introduction to Data Mining 3 or 4 CS 414 Multimedia Systems 3 or 4 CS 416 Data Visualization 3 or 4 CS 434 Real World Algorithms for IoT and Data Science 3 or 4 CS 440 Artificial Intelligence 3 or 4 CS 441 Applied Machine
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_9e7b06b0
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+orithms for IoT and Data Science 3 or 4 CS 440 Artificial Intelligence 3 or 4 CS 441 Applied Machine Learning 3 or 4 CS 442 Trustworthy Machine Learning 3 or 4 CS 443 Reinforcement Learning 3 or 4 CS 444 Deep Learning for Computer Vision 3 or 4 CS 445 Computational Photography 3 or 4 CS 446 Machine Learning 3 or 4 CS 447 Natural Language Processing 3 or 4 CS 448 Audio Computing Laboratory 3 or 4 CS 464 Topics in Societal and Ethical Impacts of Computer Technology 3 CS 466 Introduction to Bioinformatics 3 or 4 CS 467 Social Visualization 3 or 4 CS 469 Computational Advertising Infrastructure 3 CS 470 Social and Information Networks 3 CS 510 Advanced Information Retrieval 4 CS 511 Advanced Data Management 4 CS 512 Data Mining Principles 4 CS 514 Advanced Topics in Network Science 4 CS 540 De
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_0c8731c7
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+a Management 4 CS 512 Data Mining Principles 4 CS 514 Advanced Topics in Network Science 4 CS 540 Deep Learning Theory 4 CS 542 Statistical Reinforcement Learning 4 CS 543 Computer Vision 4 CS 544 Optimiz in Computer Vision 4 CS 545 Machine Learning for Signal Processing 4 CS 546 Advanced Topics in Natural Language Processing 4 CS 562 Advanced Topics in Security, Privacy, and Machine Learning 4 CS 567 Social Signals and Social Media 4 CS 576 Topics in Automated Deduction 2 to 4 CS 582 Machine Learning for Bioinformatics 4 Human and Social Impact: CS 409 The Art of Web Programming 3 or 4 CS 415 Game Development 3 or 4 CS 416 Data Visualization 3 or 4 CS 417 Virtual Reality 3 or 4 CS 441 Applied Machine Learning 3 or 4 CS 442 Trustworthy Machine Learning 3 or 4 CS 460 Security Laboratory 3 o
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_2321ae63
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+ed Machine Learning 3 or 4 CS 442 Trustworthy Machine Learning 3 or 4 CS 460 Security Laboratory 3 or 4 CS 461 Computer Security I 4 CS 463 Computer Security II 3 or 4 CS 464 Topics in Societal and Ethical Impacts of Computer Technology 3 CS 465 User Interface Design 4 CS 467 Social Visualization 3 or 4 CS 468 Tech and Advertising Campaigns 3 CS 469 Computational Advertising Infrastructure 3 CS 470 Social and Information Networks 3 CS 500 Current Topics in Computing Education Research 4 CS 514 Advanced Topics in Network Science 4 CS 562 Advanced Topics in Security, Privacy, and Machine Learning 4 CS 563 Advanced Computer Security 4 CS 565 Human-Computer Interaction 4 CS 567 Social Signals and Social Media 4 Media: CS 409 The Art of Web Programming 3 or 4 CS 414 Multimedia Systems 3 or 4 CS
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_e159c34b
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+d Social Media 4 Media: CS 409 The Art of Web Programming 3 or 4 CS 414 Multimedia Systems 3 or 4 CS 415 Game Development 3 or 4 CS 416 Data Visualization 3 or 4 CS 417 Virtual Reality 3 or 4 CS 418 Interactive Computer Graphics 3 or 4 CS 419 Production Computer Graphics 3 or 4 CS 445 Computational Photography 3 or 4 CS 448 Audio Computing Laboratory 3 or 4 CS 465 User Interface Design 4 CS 467 Social Visualization 3 or 4 CS 468 Tech and Advertising Campaigns 3 CS 469 Computational Advertising Infrastructure 3 or 4 CS 519 Scientific Visualization 4 CS 545 Machine Learning for Signal Processing 4 CS 565 Human-Computer Interaction 4 CS 567 Social Signals and Social Media 4 Scientific, Parallel, and High Perfomance Computing: CS 419 Production Computer Graphics 3 or 4 CS 435 Cloud Networking
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_161ce47a
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+, and High Perfomance Computing: CS 419 Production Computer Graphics 3 or 4 CS 435 Cloud Networking 3 or 4 CS 450 Numerical Analysis 3 or 4 CS 466 Introduction to Bioinformatics 3 or 4 CS 482 Simulation 3 or 4 CS 483 Applied Parallel Programming 4 CS 484 Parallel Programming 3 or 4 CS 519 Scientific Visualization 4 CS 554 Parallel Numerical Algorithms 4 CS 555 Numerical Methods for PDEs 4 CS 556 Iterative & Multigrid Methods 4 CS 558 Topics in Numerical Analysis 4 Distributed Systems, Networking, and Security: CS 407 Cryptography 3 or 4 CS 423 Operating Systems Design 3 or 4 CS 424 Real-Time Systems 3 or 4 CS 425 Distributed Systems 3 or 4 CS 431 Embedded Systems 3 or 4 CS 435 Cloud Networking 3 or 4 CS 436 Computer Networking Laboratory 3 or 4 CS 437 Topics in Internet of Things 3 or 4 CS
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_3d00f4dc
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+ng 3 or 4 CS 436 Computer Networking Laboratory 3 or 4 CS 437 Topics in Internet of Things 3 or 4 CS 438 Communication Networks 3 or 4 CS 439 Wireless Networks 3 or 4 CS 460 Security Laboratory 3 or 4 CS 461 Computer Security I 4 CS 463 Computer Security II 3 or 4 CS 483 Applied Parallel Programming 4 CS 484 Parallel Programming 3 or 4 CS 523 Advanced Operating Systems 4 CS 524 Concurrent Progrmg Languages 4 CS 525 Advanced Distributed Systems 4 CS 537 Advanced Topics in Internet of Things (IoT) 4 CS 538 Advanced Computer Networks 4 CS 539 Distributed Algorithms 4 CS 562 Advanced Topics in Security, Privacy, and Machine Learning 4 CS 563 Advanced Computer Security 4 Machines: CS 423 Operating Systems Design 3 or 4 CS 424 Real-Time Systems 3 or 4 CS 426 Compiler Construction 3 or 4 CS 431 E
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_a25eb89b
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+g Systems Design 3 or 4 CS 424 Real-Time Systems 3 or 4 CS 426 Compiler Construction 3 or 4 CS 431 Embedded Systems 3 or 4 CS 433 Computer System Organization 3 or 4 CS 434 Real World Algorithms for IoT and Data Science 3 or 4 CS 437 Topics in Internet of Things 3 or 4 CS 484 Parallel Programming 3 or 4 CS 523 Advanced Operating Systems 4 CS 526 Advanced Compiler Construction 4 CS 533 Parallel Computer Architecture 4 CS 534 Advanced Topics in Computer Architecture 4 CS 536 Fault-Tolerant Dig Syst Design 4 CS 541 Computer Systems Analysis 4 CS 584 Embedded System Verification 4 CS 588 Autonomous Vehicle System Engineering 4 Advanced Electives Course List Code Title Hours Students must take for a letter grade a minimum of two (2) advanced elective courses comprising at least six (6) credit h
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_6de28790
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+r a letter grade a minimum of two (2) advanced elective courses comprising at least six (6) credit hours. These advanced elective courses must be distinct from courses used to satisfy the technical electives. They may be chosen from CS 397 Individual Study and the 400-level coursework offered for letter grade in ANY area offered at the University of Illinois Urbana-Champaign. It is expected that students will select these additional advanced courses in a way that best augments their program of study. Consultation with a faculty mentors is highly encouraged. A maximum of six (6) credit hours of CS 397 may be used in the combination of technical electives and advanced electives. 6 Total Hours 6 Free Electives Course List Code Title Hours Additional course work,subject to the Grainger College
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_0c09e1cb
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+6 Free Electives Course List Code Title Hours Additional course work,subject to the Grainger College of Engineering restrictions to Free Electives,so that there are at least 128 credit hours earned toward the degree. 24-25 Total Hours of Curriculum to Graduate 128 for the degree of Bachelor of Science in Computer Science Sample Sequence This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indic
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_604e5c0e
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+he structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence. The curriculum sequence can also be viewed via dynamic and static curricular maps , which include prerequisite sequencing. Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements . If the option of CS 211 is chosen, it will satisfy a core course requirement and the Campus General Education Advanced Composition requirement. Free Electives: Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives , so that there are at least 128 credit hours earned toward th
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_bbec7c81
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+eering restrictions to Free Electives , so that there are at least 128 credit hours earned toward the degree. First Year First Semester Hours Second Semester Hours CS 100 (Optional course, highly recommended, free elective) 1 CS 128 3 CS 124 3 CS 173 3 MATH 221 (MATH 220 may be substituted) 4 MATH 231 3 ENG 100 1 General Education course (Choose a Humanities or Social/Behavioral Science course with Cultural Studies designation) 3 Science elective course 3 General Education (Choose a Humanities or Social/Behavioral Science course) or Composition I course 3-4 Composition I or General Education (Choose a Humanities or Social/Behavioral Science course) 4-3 16 15 Second Year First Semester Hours Second Semester Hours CS 222 1 CS 233 4 CS 225 4 CS 361 3 MATH 241 4 MATH 257 3 PHYS 211 4 PHYS 212
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_0c3ea144
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+Second Semester Hours CS 222 1 CS 233 4 CS 225 4 CS 361 3 MATH 241 4 MATH 257 3 PHYS 211 4 PHYS 212 4 General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation) 3 Free elective course 3 16 17 Third Year First Semester Hours Second Semester Hours CS 210 (CS 211 may be substituted) 2 CS 374 4 CS 341 4 CS Technical elective course 3 CS 357 3 CS Technical elective course 3 CS Technical elective course 3 General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation) 3 Language Other Than English (3rd level) course 4 Free elective course 3 16 16 Fourth Year First Semester Hours Second Semester Hours CS 421 3 CS Technical elective course 3 CS Advanced elective course 3 CS Technical elec
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_91db3426
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+mester Hours CS 421 3 CS Technical elective course 3 CS Advanced elective course 3 CS Technical elective course 3 CS Advanced elective course 3 CS Technical elective course 3 Free elective course 3 Free elective course 4 Free elective course 4 Free elective course 3 16 16 Total Hours 128 for the degree of Bachelor of Science Major in Computer Science By the time of graduation, students will have the ability to: Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions. Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline. Communicate effectively in a variety of professional contexts. Recognize professional responsibilities and make
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_f4e111e9
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Major Requirements
+
+CONTENT:
+effectively in a variety of professional contexts. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles. Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline. Apply computer science theory and software development fundamentals to produce computing-based solutions. for the degree of Bachelor of Science in Computer Science Siebel School of Computing and Data Science Siebel School of Computing and Data Science Faculty The Grainger College of Engineering The Grainger College of Engineering Admissions
+
+SOURCE:
+https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_1e4a0b43
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+B.S. in Computer Science Join the top-ranked Siebel School of Computing and Data Science in The Grainger College of Engineering where we are shaping the future of technology . In our Computer Science (CS) program, you'll gain a deep and diverse understanding of the theory of computing systems , with a strong focus on software development . You’ll explore software design and informational processing techniques from virtual reality to social computing, artificial intelligence and data science. You'll learn from accomplished faculty, engage in leading-edge research and collaborate with industrious peers. Our talented alumni have transformed the world by founding innovative companies such as BlackLine, C3.ai, Malwarebytes, Match.com, Optimizely, PayPal, Yelp, and YouTube. If you're creative an
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_a0b00375
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+ckLine, C3.ai, Malwarebytes, Match.com, Optimizely, PayPal, Yelp, and YouTube. If you're creative and passionate about problem-solving, this major is for you—no prior programming experience required. Embrace the opportunity to shape the future! FAQ Computing Undergraduate Degree Options Review Application Process TOP 7 ranked undergraduate computer science degree programs in the nation (U.S. News and World Report) Undergraduate Ranked Specialties #6 artificial intelligence #4 computer systems #7 cybersecurity #9 data analytics data science #4 mobile/web applictions #6 programming languages #3 software engineering #10 theory Undergraduate Career Success 95% report having internship or co-op during degree program 96% report securing first choice destination 97% 61% employed 36% continue educ
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_dd90c8b4
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+uring degree program 96% report securing first choice destination 97% 61% employed 36% continue education upon graduation Trending Industries & Fields » AI and Machine Learning » Computing for Science, Health and Climate » Cybersecurity » Fintech » High performance and Edge computing » Immersive Computing » Quantum Computing » Robotics and Autonomy Sample Career Options » API Engineer » Application Developer » Core Developer » IT Operations » Machine Learning Engineer » Product Manager » Quantitative Developer » Research & Development » Software Engineer » Studio Tools Developer Sample Employer Destinations » Amazon » Apple » Capital One » Google » IBM » Meta » Microsoft » Netflix » Sandia National Laboratories » Twitch Employer Destinations × @Walmartlabs Accenture Activision Blizzard Add
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_2e7a48e8
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+ational Laboratories » Twitch Employer Destinations × @Walmartlabs Accenture Activision Blizzard Addepar Adobe AIG Airbnb Airwatch By VMware Alarm.com Alibaba Group Allstate Insurance Company Amazon Amazon Lab126 Amazon Web Services Ameren Anheuser-Busch InBev Apple Aqueous Solutions Arris Group Aruba, A Hewlett Packard Enterprise Company AT&T Avant Credit Bank of America Bank of America / Merrill Lynch Bank of America Merrill Lynch Baxter BigMarker blockimmo Bloomberg Bluedot Boeing Bosch Braintree Payments BravoSolution Calance Capital One Carle Foundation Hospital Caterpillar CDK Global Cerner Cerner Corporation Chamberlain Group Chicago Trading Company Cisco Citadel Civis Analytics Cloudera Cloudflare CME Group Codementor Computer Packages Compuware Conversant Cray Curalate Databricks
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_c51b86f8
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+era Cloudflare CME Group Codementor Computer Packages Compuware Conversant Cray Curalate Databricks Deep Silver Volition Deloitte Dfinity Domo Technogies Dropbox DRW Holdings DRW Trading Dunn Solutions Group eBay Echelon Consulting eero EJ Enova Epic Systems Etherios Etsy Expedia Facebook FactSet FDM Group Fitbit Flinn Scientific FTI Consulting Fulcrum G2 Crowd Garmin Geneca General Electric Gladly GoDaddy Goldman Sachs Google GoPro Granular Graviton LP Groupon Grubhub HERE IBM Illinois Business Consulting IMC Financial Markets Indeed Infocon Systems Instagram Integrated Control Technology Intelligent Medical Objects Intercontinental Exhange InterSystems IXL Learning Jane Street John Deere JP Morgan Chase JPMorgan Chase Jump Trading Jumpshot Kakaogames Kanerai kCura Kettera Strategies KLA-
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_bc4849b0
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+P Morgan Chase JPMorgan Chase Jump Trading Jumpshot Kakaogames Kanerai kCura Kettera Strategies KLA-Tencor Kyndi Lawrence Livermore National Laboratory LGS Innovations Liberty Mutual Insurance Liferay Line Corp LinkedIn Liveramp Lockheed Martin LogRhythm Marketo Maven Wave Partners Mesirow Financial Microsoft Milyli Mintel MITRE Corporation Morningstar Morpho Detection Motorola Solutions Narrative Science Netrix NetSuite NextCapital Nielsen Nike Nimble Storage Northern Trust Corporation Northrop Grumman Nutanix Nvidia Oath Ocient One North Interactive Optiver Optum Osi Engineering Particulate Solid Research PayPal Paypal Inc PEAK6 Investments Petuum Pinterest PlayStation PricewaterhouseCoopers (PwC) Procter & Gamble Prototype & Production Systems Pure Storage Qualcomm Qualtrics Quicket Sol
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_f2a64045
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+rs (PwC) Procter & Gamble Prototype & Production Systems Pure Storage Qualcomm Qualtrics Quicket Solutions Qumulo Quora Raytheon Redfin Relativity Reservoir Labs RetailMeNot RiskSpan Riverbed Technology Rockwell Collins Rubrik Runtime Verification Salesforce.com Samsara Samsung SapientNitro SapientRazorfish Savo Group Self-employed ShowingTime Slalom Consulting Snapsheet Software Engineer Solstice Mobile SpaceX SpinFusion Spot Trading Sprout Social SquadFusion Star TV Network State Farm Stripe SWC Technology Partners Tableau Software Target tastyworks Teach for India Technology Services Group Thomson Reuters Thoughtworks Times Bridge Tinder Topshelf Development Tourico Holidays Trail of Bits Trustwave Holdings Tubular Labs Turn Twilio Twitter U.S. Department of Defense Uber Technologies Un
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_cfaf0838
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+Trustwave Holdings Tubular Labs Turn Twilio Twitter U.S. Department of Defense Uber Technologies Union Pacific University of Illinois at Urbana-Champaign University Of Illinois at Urbana-Champaign, Engineering IT Shared Services Uptake Valkyrie Trading Veeva Labs Veeva Systems Viasat VistaPrint VMware Wayfair West Monroe Partners Wolfram Research Wolverine Trading XcelPros Yahoo Yahoo! Yelp YouTube Zillow Zillow Group Zoro US Close Grad School Destinations × Carnegie Mellon University Cornell University Duke University Georgia Institute of Technology Georgia Institute of Technology (Georgia Tech) Harvard University Massachusetts Institute of Technology (MIT) New York University Northeastern University Stanford University University of California, Berkeley University of California, Los Ang
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_ceb93ed9
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+University Stanford University University of California, Berkeley University of California, Los Angeles University of California, San Diego University of Illinois at Urbana-Champaign University of Illinois, College of Medicine at DesPlaines University of South Florida University of Texas at Austin University of Washington-Seattle University of Waterloo University of Wisconsin-Madison Virginia Polytechnic Institute and State University Close Sample Grad School Destinations » University of Illinois Urbana-Champaign » Carnegie Mellon University » Georgia Institute of Technology » Massachusetts Institute of Technology (MIT) » Stanford University » University of California, Berkeley The undergraduate engineering program at The Grainger College of Engineering is ranked #5 overall in the U.S. Ne
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_5e97f4e9
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+duate engineering program at The Grainger College of Engineering is ranked #5 overall in the U.S. News & World Report (published September 2025). Listed above is our ranked undergraduate computer science program and specialties. Post-graduate data was collected through the Illini Success initiative, which primarily relies on self-reported survey data sources. Statistics reported are from 2023-2024. For more information on Illini Success data and methods, please visit the Illini Success website . Undergraduate Illini Success What Are Our Graduates Doing? Learn what Illini do after they graduate, including where they're employed, the average salaries they're making, and what graduate schools they're attending. View Stats Guaranteed Admission to our Master of Computer Science (MCS) Programs S
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_26682697
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+hey're attending. View Stats Guaranteed Admission to our Master of Computer Science (MCS) Programs Students earning a bachelor’s degree in CS, a blended CS degree or a CS minor from the University of Illinois Urbana-Champaign may be eligible for guaranteed admission into the online, Urbana or Chicago MCS programs offered by the Siebel School for Computing and Data Science. Recent University of Illinois Urbana-Champaign graduates may qualify for an application fee waiver . Student Life Succeeding in college is all about finding an environment that suits you. Explore Student Communities Undergraduate Research Participate in high-impact research, mentorship, and showcase opportunities. Research Opportunities Career Services Explore comprehensive career services that support you at every stage
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_c85a7137
+============================================================
+
+TYPE: PROGRAM
+TITLE: CS Degree Structure
+
+CONTENT:
+Opportunities Career Services Explore comprehensive career services that support you at every stage. Career Information Degree Requirements Curriculum Map Course Catalog The Grainger College of Engineering Program Page Frequently Asked Questions FAQs Review Application Process
+
+SOURCE:
+https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: PROGRAM_4548adf3
+============================================================
+
+TYPE: POLICY
+TITLE: Academic Policies
+
+CONTENT:
+Article 3 – Academic Policies & Regulations Part 1 – Grades and Grading System § 3-101 Academic Work Report Requirements § 3-102 Grading System – Grades Authorized for All Colleges § 3-103 Computation of Scholastic Averages § 3-104 Other Grade Symbols in Use § 3-105 Credit-No Credit Grading Options § 3-106 Grade Corrections § 3-107 Procedures for Review of Alleged Capricious Grading § 3-108 Procedures for Review of Instructor's Ability to Communicate Clearly § 3-109 Academic Progress § 3-110 Academic Standing Rules Part 2 – Examinations Part 3 – Registration, Course Changes, and Withdrawal Part 4 – Undergraduate Academic Recognition Part 5 – Registration Charges Part 6 – Student Records—Guidelines and Regulations Governing Access and Release Part 7 – Transcripts Part 8 – Graduation Part 9
+
+SOURCE:
+https://studentcode.illinois.edu/article3/part1/3-101/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: POLICY_ede783f7
+============================================================
+
+TYPE: POLICY
+TITLE: Academic Policies
+
+CONTENT:
+elines and Regulations Governing Access and Release Part 7 – Transcripts Part 8 – Graduation Part 9 – Residency Status Regulations § 3-101 Academic Work Report Requirements Faculty members have the responsibility to provide the university with an individual evaluation of the work of each student in their classes. Final course grades are entered on the student’s permanent university record at the close of each semester, term, or session. A dean may require reports from each instructor or faculty member, upon the work of all freshmen and upon all other students whose work is presumably below C. Reports of midsemester grades are required upon the work of all freshmen. They are not entered on the student’s permanent university record.
+
+SOURCE:
+https://studentcode.illinois.edu/article3/part1/3-101/
+DATE_ACCESSED: 2026-03-28
+CHUNK_ID: POLICY_b4a876ac
+============================================================
+
