@@ -13,6 +13,11 @@ db = FAISS.load_local(
 
 llm = ChatOllama(model="llama3")
 
+def needs_clarification(query):
+    if "plan" in query.lower() and "completed" not in query.lower():
+        return True
+    return False
+
 def detect_type(query):
     q = query.lower()
     if "policy" in q or "rule" in q:
@@ -22,6 +27,14 @@ def detect_type(query):
     return "COURSE"
 
 def ask(query):
+
+    if needs_clarification(query):
+        return """
+        Clarifying Questions:
+        - What courses have you completed?
+        - What is your major?
+        - Any credit/semester constraints?
+        """
 
     match = re.search(r"CS\s*[-:]?\s*\d+", query.upper())
     course = match.group(0).replace(" ", "") if match else ""
@@ -81,6 +94,9 @@ def ask(query):
     )
 
     response = llm.invoke(prompt)
+
+    if "[" not in response.content:
+        return "I don't have enough evidence in the catalog to answer this."
 
     return response.content
 
