@@ -30,7 +30,7 @@ Key capabilities:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Abhi2939/Course_Planning_Assistant.git>
    cd lms-assistant
    ```
 
